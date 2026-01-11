@@ -1,4 +1,4 @@
-^G Get Help   ^O Write Out   ^X Exit
+
 # Bandit Level 0 → Level 1
 
 ## Objective
@@ -16,4 +16,3 @@ Password for Bandit Level 1: ********
 ## What I Learned
 - How SSH is used to access a remote server
 - How to read a file using the cat command
-
